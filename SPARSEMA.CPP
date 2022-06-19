@@ -26,4 +26,3 @@ struct rowno *rownm;
 rownumm;
 void main()
 {}
-
