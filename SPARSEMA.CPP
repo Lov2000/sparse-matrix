@@ -11,7 +11,8 @@ struct RowNodeType * next;
 ColumnNode * first;
 }RowNode;
 typedef struct headerNodeType{
-  int nrow;
+
+int nrow;
 int ncolumn;
 int num;
 struct headerNodeType *head;
